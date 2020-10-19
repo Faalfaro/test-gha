@@ -1,6 +1,6 @@
 # Test github actions deploy to heroku 
 
-## Create a sample react app 
+## Create a base react app 
 
 Create a base react application to test your deploy. First, open a console and clone your github repository that you want to use:
 
